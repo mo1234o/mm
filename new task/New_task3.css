@@ -1,0 +1,42 @@
+body {
+    background-attachment: fixed;
+    background-image: url(Pack.jpg);
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #f3f2f7;
+}
+
+.content {
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+.our {
+    text-align: left;
+    padding: 10px;
+
+
+}
+
+.bottomm {
+    text-align: left;
+
+}
+
+.par {
+    margin-top: 400;
+    justify-content: center;
+}
+
+#a {
+    position: relative;
+    top: 30px;
+    left: 10px;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+    background-color: grey;
+    border-radius: 50%;
+    font-size: 30px;
+}
